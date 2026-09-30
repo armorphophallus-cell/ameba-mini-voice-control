@@ -1,0 +1,24 @@
+# Local Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Arduino / build output
+build/
+
+# Large/raw audio datasets
+dataset/raw/
+dataset/wav/
+dataset/samples/
+*.wav
+*.mp3
+
+# Experimental model files not required by final firmware
+*.h5
+*.keras
+*.nb
+model/yamnet_source/
+
+# OS files
+.DS_Store
+Thumbs.db

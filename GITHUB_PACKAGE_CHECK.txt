@@ -1,0 +1,20 @@
+GitHub package prepared by ChatGPT
+Files: 16
+Total size: 173.8 KB
+
+.gitignore
+AMB82_VoiceControl.ino
+FULL_SOURCE_CODE.md
+PROJECT_DOCUMENTATION.md
+README.md
+RawAudioSink.cpp
+RawAudioSink.h
+dataset/README.md
+dataset/manifest.csv
+model/artifacts/live_calibration.csv
+model/artifacts/live_template_report.json
+page.h
+scripts/Split-VoiceCommands.ps1
+scripts/build_live_templates.py
+scripts/build_spectral_templates.py
+spectral_templates.h
